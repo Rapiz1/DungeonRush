@@ -15,6 +15,8 @@
 
 [Someone port it to android!](https://github.com/imrunning/DungeonRush_Android)
 
+[Zig language port](https://github.com/deckarep/dungeon-rush)
+
 AppImage for Linux is also available in release page.
 
 [Archlinux AUR](https://aur.archlinux.org/packages/dungeonrush/)
